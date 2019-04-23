@@ -7,6 +7,6 @@ zuul:
         feign-consumer:
             path: /feign-consumer/**
             serviceId: feign-consumer
-        hello-service:
+        hello-service-123:
             path: /hello123/**
             serviceId: hello-service
